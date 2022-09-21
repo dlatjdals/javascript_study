@@ -6,4 +6,3 @@ for (var a = 0; a < 2; a++ ) {
         a += "\n"
 }
 console.log(a);
-break;
